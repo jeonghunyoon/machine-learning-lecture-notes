@@ -25,37 +25,38 @@
 
 ### Lecture07 : 상관분석
 
-### Lecture10 : 선형대수 기초 01 (벡터, 행렬)
+### Lecture08 : Practical Statistics in Data Science
 
-### Lecture11 : 선형대수 기초 02 (Spectral property)
+### Lecture09 : 선형대수 기초 01 (벡터, 행렬)
 
-### Lecture12 : 미적분학 기초(Gradient)
+### Lecture10 : 선형대수 기초 02 (Spectral property)
 
-### Lecture13 : 베이지안 결정 이론(Bayesian Decision Theory)
+### Lecture11 : 미적분학 기초(Gradient)
 
-### Lecture14 : 선형 회귀 분석(Linear Regression)
+### Lecture12 : 베이지안 결정 이론(Bayesian Decision Theory)
 
-### Lecture15 : 분류(Classification)
+### Lecture13 : 선형 회귀 분석(Linear Regression)
 
-### Lecture16 : 로지스틱 회귀(Logistic Regression) 1, 2
+### Lecture14 : 분류(Classification)
 
-### Lecture17 : 정보이론 및 결정트리(Information theory / Decision Tree)
+### Lecture15 : 로지스틱 회귀(Logistic Regression) 1, 2
 
-### Lecture18 : Ensemble 1, 2
+### Lecture16 : 정보이론 및 결정트리(Information theory / Decision Tree)
 
-### Lecture19 : 서포트 벡터 머신(Suupert Vector Machine) 1, 2
+### Lecture17 : Ensemble 1, 2
 
-### Lecture20 : 주성분 분석(Principal Component Analysis) 1, 2
+### Lecture18 : 서포트 벡터 머신(Suupert Vector Machine) 1, 2
 
-### Lecture21 : K-means clustering
+### Lecture19 : 주성분 분석(Principal Component Analysis) 1, 2
 
-### Lecture22 : Clustering
+### Lecture20 : K-means clustering
 
-### Lecture23 : 퍼셉트론(Perceptron)
+### Lecture21 : Clustering
 
-### Lecture24 : 심층 신경망(Deep Neural Networt)
+### Lecture22 : 퍼셉트론(Perceptron)
 
-### Lecture25 : 자연어 처리(Natural Language Precessing)
+### Lecture23 : 심층 신경망(Deep Neural Networt)
 
-### Lecture26 : Feature engineering
+### Lecture24 : 자연어 처리(Natural Language Precessing)
 
+### Lecture25 : Feature engineering
