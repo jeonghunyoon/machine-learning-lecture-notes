@@ -15,15 +15,17 @@
 확률 분포에 대한 강의자료2 입니다.
  - [Probability Distribution Python code](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture03_Probability_Distribution.ipynb)
 
-### Lecture04 : 추정 이론
+### [Lecture04 : 추정 이론](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture04_Estimation_Theory.pdf?flush_cache=true)
 
-### Lecture05 : 표본 분포 이론
+### [Lecture05 : 표본 분포 이론](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture05_Sample_Distribution.pdf?flush_cache=true)
 
-### Lecture06 : (일원) 가설 검정 이론 
+### [Lecture06 : (일원) 가설 검정 이론 1](https://github.com/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture06_Hypothesis_Testing_01.pdf?flush_cache=true)
 
-### Lecture06 : (이원) 가설 검정 이론 - 분산분석
+### [Lecture06 : (일원) 가설 검정 이론 2](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture06_Hypothesis_Testing_02.pdf?flush_cache=true)
 
-### Lecture07 : 상관분석
+### [Lecture06 : (이원) 가설 검정 이론 - 분산분석](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture06_Anova.pdf?flush_cache=true)
+
+### [Lecture07 : 상관분석](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture07_Correlation.pdf?flush_cache=true)
 
 ### Lecture08 : Practical Statistics in Data Science
 
