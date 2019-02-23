@@ -15,22 +15,22 @@
 확률 분포에 대한 수리통계학 강의자료2 입니다.
  - [Probability Distribution Python code](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture03_Probability_Distribution.ipynb)
 
-### [Lecture04 : 추정 이론](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture04_Estimation_Theory.pdf?flush_cache=true)
+### [Lecture04 (02/27) : 추정 이론](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture04_Estimation_Theory.pdf?flush_cache=true)
 추정 이론에 대한 수리통계학 강의자료 입니다.
 
-### [Lecture05 : 표본 분포 이론](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture05_Sample_Distribution.pdf?flush_cache=true)
+### [Lecture05 (03/02) : 표본 분포 이론](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture05_Sample_Distribution.pdf?flush_cache=true)
 표본 분포에 대한 수리통계학 강의자료 입니다.
 
-### [Lecture06 : (일원) 가설 검정 이론 1](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture06_Hypothesis_Testing_01.pdf?flush_cache=true)
+### [Lecture06 (03/06) : (일원) 가설 검정 이론 1](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture06_Hypothesis_Testing_01.pdf?flush_cache=true)
 일원 가설 검정 이론에 대한 수리통계학 강의자료1 입니다.
 
-### [Lecture06 : (일원) 가설 검정 이론 2](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture06_Hypothesis_Testing_02.pdf?flush_cache=true)
+### [Lecture06 (03/06) : (일원) 가설 검정 이론 2](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture06_Hypothesis_Testing_02.pdf?flush_cache=true)
 일원 가설 검정 이론에 대한 수리통계학 강의자료2 입니다.
 
-### [Lecture06 : (이원) 가설 검정 이론 - 분산분석](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture06_Anova.pdf?flush_cache=true)
+### [Lecture06 (03/09) : (이원) 가설 검정 이론 - 분산분석](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture06_Anova.pdf?flush_cache=true)
 이원 가설 검정 이론에 대한 수리통계학 강의 자료입니다. 분산 분석(ANOVA) 강의 자료입니다.
 
-### [Lecture07 : 상관분석](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture07_Correlation.pdf?flush_cache=true)
+### [Lecture07 (03/09) : 상관분석](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture07_Correlation.pdf?flush_cache=true)
 상관 분석에 대한 수리통계학 강의 자료입니다.
 
 ### Lecture08 : Practical Statistics in Data Science
