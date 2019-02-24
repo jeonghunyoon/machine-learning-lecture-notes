@@ -58,7 +58,8 @@ Linear Regression에 대한 강의 자료입니다.
      - [A Few Useful Things to Know about Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) : 머신러닝에 굉장히 유용한 논문입니다.
      - [Stanford CS229 : Linear Regression](http://cs229.stanford.edu/notes/cs229-notes1.pdf)
 
-### Lecture14 : 분류(Classification)
+### [Lecture14 : 분류(Classification)](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture14_Binary_Classification_MNIST.ipynb?flush_cache=true)
+Binary Classification에 대한 강의 자료입니다. (핸즈온 머신러닝)
 
 ### Lecture15 : 로지스틱 회귀(Logistic Regression) 1, 2
 
