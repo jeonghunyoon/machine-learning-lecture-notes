@@ -64,7 +64,7 @@ Binary Classification에 대한 강의 자료입니다. (핸즈온 머신러닝)
 ### [Lecture14 : 분류(Classification) 2](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture14_Multiclass_Classification_MNIST.ipynb?flush_cache=true)
 Muticlass Classification에 대한 강의 자료입니다. (핸즈온 머신러닝)
 
-### [Lecture15 : 로지스틱 회귀(Logistic Regression) 1](https://github.com/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture15_Logistic_Regression.pdf?flush_cache=true)
+### [Lecture15 : 로지스틱 회귀(Logistic Regression) 1](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture15_Logistic_Regression.pdf?flush_cache=true)
  - Reading material
      - [Stanford CS229 : Logistic Regression](http://cs229.stanford.edu/notes/cs229-notes1.pdf)
      
