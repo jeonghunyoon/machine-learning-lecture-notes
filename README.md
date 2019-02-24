@@ -47,9 +47,9 @@
 Bayesian Decision Theory에 대한 강의 자료입니다.
  - [Lecture12 sub notes: MLE/MAP](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture12_MLE_MAP.pdf?flush_cache=true) : MLE/MAP에 대한 강의 자료입니다.
  - Reading material
-  - [Stanford CS229 : Generative Learning algorithms](http://cs229.stanford.edu/notes/cs229-notes2.pdf)
-  - Pattern Recoginition and Machine Learning(Bishop): 1.5 Decision Theory (번역본있음)
-  - Pattern Classification(Duda) : 2. Bayesian Decision Theory (번역본있음)
+      - [Stanford CS229 : Generative Learning algorithms](http://cs229.stanford.edu/notes/cs229-notes2.pdf)
+      - Pattern Recoginition and Machine Learning(Bishop): 1.5 Decision Theory (번역본있음)
+      - Pattern Classification(Duda) : 2. Bayesian Decision Theory (번역본있음)
 
 ### Lecture13 : 선형 회귀 분석(Linear Regression)
 
