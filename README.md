@@ -20,9 +20,10 @@
 
 ### [Lecture04 (02/27) : 선형대수 기초 02 (행렬)](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture04_Linear_Algebra_Basic_Matrix.pdf?flush_cache=true)
 선형대수 행렬 내용입니다.
+ - [Vector And Matrix Python Code](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture04_Sub_Vectors-and-Matrices.ipynb?flush_cache=true)
 
 ### [Lecture05 (03/02) : Numpy](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture05_Numpy.ipynb?flush_cache=true)
-Data 분석에 필요한 Numpy 기본입니다.
+Data 분석에 필요한 Numpy 기본편 입니다.
 
 ### [Lecture06 (03/06) : 선형대수 기초 03 (고유값/고유벡터)](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture05_Numpy.ipynb?flush_cache=true)
 선형대수 고유값/고유벡터 내용입니다.
@@ -31,12 +32,15 @@ Data 분석에 필요한 Numpy 기본입니다.
 선형대수 변환 내용입니다.
 
 ### [Lecture07 (03/09) : Pandas 1](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture07_Pandas_1.ipynb?flush_cache=true)
+데이터 분석에 필요한 Pandas 기본편 1 입니다. 
 
 ### [Lecture08 (03/13) : Pandas 2](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture07_Pandas_2.ipynb?flush_cache=true)
- - [Matplotlib_1](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture08_Matplotlib_1.ipynb?flush_cache=true)
- - [Matplotlib_2](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture08_Matplotlib_2.ipynb?flush_cache=true)
+데이터 분석에 필요한 Pandas 기본편 2 입니다.
+ - [Matplotlib_01](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture08_Matplotlib_1.ipynb?flush_cache=true) : 데이터 시각화 툴인 Matplotlib 1 입니다.
+ - [Matplotlib_02](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture08_Matplotlib_2.ipynb?flush_cache=true) : 데이터 시각화 툴인 Matplotlib 1 입니다.
 
 ### [Lecture09 (03/16) : 기본 미적분학](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture09_Gradient.pdf?flush_cache=true)
+Gradient를 계산할 때 사용되는 기본 미적분학 강의자료입니다.
 
 ### Lecture10 (03/20) : Statistics in Data Science 1
 
@@ -53,7 +57,7 @@ Data 분석에 필요한 Numpy 기본입니다.
          - [Hypothesis python code](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture06_Hypothesis_Test.ipynb?flush_cache=true)
          - [Anova python code](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture06_ANOVA.ipynb?flush_cache=true)
          
-### [Lecture13 (03/27) : 머신러닝 기초 (Machine Learning Basic)]
+### Lecture13 (03/27) : 머신러닝 기초 (Machine Learning Basic)
 
 ### [Lecture12 (03/30) : 베이지안 결정 이론(Bayesian Decision Theory)](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture12_Bayesian_Decision_Thoery.pdf?flush_cache=true)
 Bayesian Decision Theory에 대한 강의 자료입니다.
