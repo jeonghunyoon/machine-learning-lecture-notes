@@ -21,32 +21,34 @@
 ### [Lecture04 (02/27) : 선형대수 기초 02 (행렬)](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture04_Linear_Algebra_Basic_Matrix.pdf?flush_cache=true)
 선형대수 행렬 내용입니다.
 
-### [Lecture05 (03/02) : Numpy](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture05_Numpy.ipynb)
+### [Lecture05 (03/02) : Numpy](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture05_Numpy.ipynb?flush_cache=true)
 Data 분석에 필요한 Numpy 기본입니다.
 
-### [Lecture06 (03/06) : 선형대수 기초 03 (고유값/고유벡터)](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture05_Numpy.ipynb)
+### [Lecture06 (03/06) : 선형대수 기초 03 (고유값/고유벡터)](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture05_Numpy.ipynb?flush_cache=true)
 선형대수 고유값/고유벡터 내용입니다.
 
-### [Lecture06 (03/06) : 선형대수 기초 04 (변환)](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture05_Numpy.ipynb)
+### [Lecture06 (03/06) : 선형대수 기초 04 (변환)](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture05_Numpy.ipynb?flush_cache=true)
 선형대수 변환 내용입니다.
 
-### [Lecture07 (03/09) : Pandas 1]
+### [Lecture07 (03/09) : Pandas 1](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture07_Pandas_1.ipynb?flush_cache=true)
 
-### [Lecture08 (03/13) : Pandas 2 + Matplotlib]
+### [Lecture08 (03/13) : Pandas 2](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture07_Pandas_2.ipynb?flush_cache=true)
+ - [Matplotlib_1](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture08_Matplotlib_1.ipynb?flush_cache=true)
+ - [Matplotlib_2](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture08_Matplotlib_2.ipynb?flush_cache=true)
 
-### [Lecture09 (03/16) : 기본 미적분학]
+### [Lecture09 (03/16) : 기본 미적분학](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture09_Gradient.pdf?flush_cache=true)
 
-### [Lecture08 (03/20) : Statistics in Data Science 1]
+### Lecture10 (03/20) : Statistics in Data Science 1
 
-### [Lecture08 (03/23) : Statistics in Data Science 2]
+### Lecture10 (03/23) : Statistics in Data Science 2
  - Reading material
-     - [표본 분포 이론](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture05_Sample_Distribution.pdf?flush_cache=true) : 표본 분포에 대한 수리통계학 강의자료 입니다.
-     - [가설 검정 이론 1](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture06_Hypothesis_Testing_01.pdf?flush_cache=true) : 가설 검정 이론에 대한 수리통계학 강의자료1 입니다.
-     - [가설 검정 이론 2](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture06_Hypothesis_Testing_02.pdf?flush_cache=true) : 가설 검정 이론에 대한 수리통계학 강의자료2 입니다.
-     - [분산분석](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture06_Anova.pdf?flush_cache=true) : 분산 분석(ANOVA) 대한 수리통계학 강의 자료입니다.
-     - [상관분석](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture07_Correlation.pdf?flush_cache=true) : 상관 분석에 대한 수리통계학 강의 자료입니다.
-     - [추정 이론](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture04_Estimation_Theory.pdf?flush_cache=true) : 
+      - [추정 이론](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture10_Estimation_Theory.pdf?flush_cache=true) : 
 추정 이론에 대한 수리통계학 강의자료 입니다.
+     - [표본 분포 이론](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture10_Sample_Distribution.pdf?flush_cache=true) : 표본 분포에 대한 수리통계학 강의자료 입니다.
+     - [가설 검정 이론 1](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture10_Hypothesis_Testing_01.pdf?flush_cache=true) : 가설 검정 이론에 대한 수리통계학 강의자료1 입니다.
+     - [가설 검정 이론 2](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture10_Hypothesis_Testing_02.pdf?flush_cache=true) : 가설 검정 이론에 대한 수리통계학 강의자료2 입니다.
+     - [분산분석](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture10_Anova.pdf?flush_cache=true) : 분산 분석(ANOVA) 대한 수리통계학 강의 자료입니다.
+     - [상관분석](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture10_Correlation.pdf?flush_cache=true) : 상관 분석에 대한 수리통계학 강의 자료입니다.
      - Python code
          - [Hypothesis python code](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture06_Hypothesis_Test.ipynb?flush_cache=true)
          - [Anova python code](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture06_ANOVA.ipynb?flush_cache=true)
@@ -86,29 +88,16 @@ Logistic Regression에 대한 강의 자료입니다.
 
 ### Lecture17 (04/27) : Ensemble 2
 
-### Lecture18 (05/01) : 서포트 벡터 머신(Suupert Vector Machine) 1, 2
+### Lecture18 (05/01) : 서포트 벡터 머신(Suupert Vector Machine)
 
-### Lecture19 (05/04) : 주성분 분석(Principal Component Analysis) 1, 2
+### Lecture19 (05/04) : 주성분 분석(Principal Component Analysis)
 
 ### Lecture20 (05/08) : K-means clustering
 
 ### Lecture21 (05/15) : Clustering
 
-### Lecture22 (05/22) : 심층 신경망(Deep Neural Networt)
+### Lecture22 (05/22) : 심층 신경망(Deep Neural Network)
 
-### Lecture26 (06/01) : Feature engineering 1
+### Lecture26 (06/01) : Feature engineering
 
 ### Lecture26 (06/05) : Real Project 1
-
-### Lecture26 (06/05) : Real Project 2
-
-
-
-
-
-
-### Lecture23 (05/04) : 심층 신경망(Deep Neural Networt)
-
-### Lecture24 (05/08) : 자연어 처리(Natural Language Precessing)
-
-### Lecture25 (05/15) : 추천 시스템(Recommendation Systeom)
