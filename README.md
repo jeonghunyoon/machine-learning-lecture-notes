@@ -25,11 +25,11 @@
 ### [Lecture05 (03/02) : Numpy](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture05_Numpy.ipynb?flush_cache=true)
 Data 분석에 필요한 Numpy 기본편 입니다.
 
-### [Lecture06 (03/06) : 선형대수 기초 03 (고유값/고유벡터)](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture05_Numpy.ipynb?flush_cache=true)
-선형대수 고유값/고유벡터 내용입니다.
-
-### [Lecture06 (03/06) : 선형대수 기초 04 (변환)](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture05_Numpy.ipynb?flush_cache=true)
+### [Lecture06 (03/06) : 선형대수 기초 03 (변환)](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture06_Spectral_Theorem_Transformation.pdf?flush_cache=true)
 선형대수 변환 내용입니다.
+
+### [Lecture06 (03/06) : 선형대수 기초 04 (고유값/고유벡터)](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture06_Spectral_Theorem_Eigenvalue.pdf?flush_cache=true)
+선형대수 고유값/고유벡터 내용입니다.
 
 ### [Lecture07 (03/09) : Pandas 1](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture07_Pandas_1.ipynb?flush_cache=true)
 데이터 분석에 필요한 Pandas 기본편 1 입니다. 
