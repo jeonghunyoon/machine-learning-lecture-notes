@@ -100,7 +100,7 @@ Logistic Regression에 대한 강의 자료입니다.
 
 ### Lecture21 (05/15) : Clustering
 
-### Lecture22 (05/22) : 심층 신경망(Deep Neural Network)
+### Lecture22 (05/22) : 심층 신경망 기본 + Keras(Deep Neural Network)
 
 ### Lecture26 (06/01) : Feature engineering
 
