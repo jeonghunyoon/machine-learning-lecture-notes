@@ -105,3 +105,5 @@ Logistic Regression에 대한 강의 자료입니다.
 ### Lecture26 (06/01) : Feature engineering
 
 ### Lecture26 (06/05) : Real Project 1
+
+$x^2$ Test
