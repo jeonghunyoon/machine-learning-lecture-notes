@@ -35,11 +35,11 @@ Data 분석에 필요한 Numpy 기본편 입니다.
 
 ### [Lecture07 (03/09) : Pandas 1](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture07_Pandas_1.ipynb?flush_cache=true)
 데이터 분석에 필요한 Pandas 기본편 1 입니다. 
- - [Pandas Problem Set](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture07_Sub_Pandas_Problem01.ipynb?flush_cache=true)
 
 ### [Lecture08 (03/13) : Pandas 2](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture07_Pandas_2.ipynb?flush_cache=true)
 데이터 분석에 필요한 Pandas 기본편 2 입니다.
  - [Data Analysis Example](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture07_Sub_Pandas_Analysis_Examples.ipynb?flush_cache=true)
+ - [Pandas Problem Set](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture07_Sub_Pandas_Problem01.ipynb?flush_cache=true)
  - [Matplotlib_01](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture08_Matplotlib_1.ipynb?flush_cache=true) : 데이터 시각화 툴인 Matplotlib 1 입니다.
  - [Matplotlib_02](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture08_Matplotlib_2.ipynb?flush_cache=true) : 데이터 시각화 툴인 Matplotlib 1 입니다.
 
