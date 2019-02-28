@@ -45,6 +45,8 @@ Data 분석에 필요한 Numpy 기본편 입니다.
 
 ### [Lecture09 (03/16) : 기본 미적분학](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture09_Gradient.pdf?flush_cache=true)
 Gradient를 계산할 때 사용되는 기본 미적분학 강의자료입니다.
+ - [Gradient Python Code 1](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture09_Sub_Gradient_01.ipynb?flush_cache=true)
+ - [Gradient Python Code 2](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture09_Sub_Gradient_02.ipynb?flush_cache=true)
 
 ### Lecture10 (03/20) : Statistics in Data Science 1
 
