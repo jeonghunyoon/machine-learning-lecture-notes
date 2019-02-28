@@ -24,7 +24,7 @@
 
 ### [Lecture05 (03/02) : Numpy](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture05_Numpy.ipynb?flush_cache=true)
 Data 분석에 필요한 Numpy 기본편 입니다.
- - [Numpy Problem Set](https://github.com/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture05_Numpy_Problem01.ipynb?flush_cache=true)
+ - [Numpy Problem Set](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture05_Numpy_Problem01.ipynb?flush_cache=true)
 
 ### [Lecture06 (03/06) : 선형대수 기초 03 (변환)](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture06_Spectral_Theorem_Transformation.pdf?flush_cache=true)
 선형대수 변환 내용입니다.
