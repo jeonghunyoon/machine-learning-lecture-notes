@@ -22,7 +22,7 @@
 선형대수 행렬 내용입니다.
  - [Vector And Matrix Python Code](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture04_Sub_Vectors-and-Matrices.ipynb?flush_cache=true)
 
-### [Lecture05 (03/02) : Numpy](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture05_Sub_Numpy.ipynb?flush_cache=true)
+### [Lecture05 (03/02) : Numpy](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture05_Numpy.ipynb?flush_cache=true)
 Data 분석에 필요한 Numpy 기본편 입니다.
  - [KNN Numpy Python Code](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture05_Sub_KNN_Using_Numpy.ipynb?flush_cache=true)
  - [Numpy Problem Set](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture05_Sub_Numpy_Problem01.ipynb?flush_cache=true)
