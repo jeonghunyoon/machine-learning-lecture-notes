@@ -48,7 +48,11 @@ Gradient를 계산할 때 사용되는 기본 미적분학 강의자료입니다
  - [Gradient Python Code 1](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture09_Sub_Gradient_01.ipynb?flush_cache=true)
  - [Gradient Python Code 2](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture09_Sub_Gradient_02.ipynb?flush_cache=true)
 
-### Lecture10 (03/20) : Statistics in Data Science 1
+### [Lecture10 (03/20) : EDA](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture10_EDA.ipynb?flush_cache=true)
+ - EDA에 대한 강의 자료입니다.
+
+### [Lecture10 (03/20) : Statistics in Data Science 1](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture10_Statistics_In_Data_Science_1.ipynb?flush_cache=true)
+ - Data Science 에서 필요한 통계 내용에 대한 강의 자료1 입니다.
 
 ### Lecture10 (03/23) : Statistics in Data Science 2
  - Reading material
