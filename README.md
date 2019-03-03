@@ -11,7 +11,7 @@
 ### [Lecture03 (02/23) : 확률분포 1](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture03_Probability_Distribution_01.pdf?flush_cache=true)
 확률 분포에 대한 수리통계학 강의자료1 입니다. 
 
-### [Lecture03 (02/23) : 확률분포 2](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture03_Probability_Distribution_02.pdf?flush_cache=true)
+### [Lecture03 (02/23) : 확률분포 2](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture03_Probability_Distribution_02.pdfd )
 확률 분포에 대한 수리통계학 강의자료2 입니다.
  - [Probability Distribution python code](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture03_Probability_Distribution.ipynb?flush_cache=true)
 
@@ -54,7 +54,7 @@ Gradient를 계산할 때 사용되는 기본 미적분학 강의자료입니다
 ### [Lecture10 (03/20) : Statistics in Data Science 1](https://github.com/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture10_Statistics_In_Data_Science_1.ipynb?flush_cache=true)
  - Data Science 에서 필요한 통계 내용에 대한 강의 자료1 입니다.
 
-### Lecture10 (03/23) : Statistics in Data Science 2
+### [Lecture10 (03/23) : Statistics in Data Science 2](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture10_Statistics_In_Data_Science_2.ipynb?flush_cache=true)
  - Reading material
       - [추정 이론](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture10_Estimation_Theory.pdf?flush_cache=true) : 
 추정 이론에 대한 수리통계학 강의자료 입니다.
@@ -65,7 +65,6 @@ Gradient를 계산할 때 사용되는 기본 미적분학 강의자료입니다
      - [상관분석](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture10_Correlation.pdf?flush_cache=true) : 상관 분석에 대한 수리통계학 강의 자료입니다.
      - Python code
          - [Hypothesis python code](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture06_Hypothesis_Test.ipynb?flush_cache=true)
-         - [Anova python code](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture06_ANOVA.ipynb?flush_cache=true)
          
 ### Lecture13 (03/27) : 머신러닝 기초 (Machine Learning Basic)
 
@@ -102,7 +101,7 @@ Logistic Regression에 대한 강의 자료입니다.
 
 ### Lecture17 (04/27) : Ensemble 2
 
-### Lecture18 (05/01) : 서포트 벡터 머신(Suupert Vector Machine)
+### Lecture18 (05/01) : 서포트 벡터 머신(Support Vector Machine)
 
 ### Lecture19 (05/04) : 주성분 분석(Principal Component Analysis)
 
