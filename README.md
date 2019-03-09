@@ -32,7 +32,8 @@ Data 분석에 필요한 Numpy 기본편 입니다.
 
 ### [Lecture06 (03/06) : 선형대수 기초 04 (고유값/고유벡터)](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture06_Spectral_Theorem_Eigenvalue.pdf?flush_cache=true)
 선형대수 고유값/고유벡터 내용입니다.
- - [LSA From The Scratch Python Code](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture06_Sub_LSA.ipynb?flush_cache=true)
+ - [LSA From The Scratch Python Code 1](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture06_Sub_LSA.ipynb?flush_cache=true)
+  - [LSA From The Scratch Python Code 2](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture06_Sub_LSA_2.ipynb?flush_cache=true)
 
 ### [Lecture07 (03/09) : Pandas 1](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture07_Pandas_1.ipynb?flush_cache=true)
 데이터 분석에 필요한 Pandas 기본편 1 입니다. 
