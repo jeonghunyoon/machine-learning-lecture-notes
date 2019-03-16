@@ -45,10 +45,10 @@ Data 분석에 필요한 Numpy 기본편 입니다.
  - [Matplotlib_01](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture08_Matplotlib_1.ipynb?flush_cache=true) : 데이터 시각화 툴인 Matplotlib 1 입니다.
  - [Matplotlib_02](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture08_Matplotlib_2.ipynb?flush_cache=true) : 데이터 시각화 툴인 Matplotlib 1 입니다.
 
-### [Lecture09 (03/16) : 기본 미적분학](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture09_Gradient.pdf?flush_cache=true)
+### [Lecture09 (03/16) : 기본 미적분학](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture09_Gradient.pdf)
 Gradient를 계산할 때 사용되는 기본 미적분학 강의자료입니다.
- - [Gradient Python Code 1](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture09_Sub_Gradient_01.ipynb?flush_cache=true)
- - [Gradient Python Code 2](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture09_Sub_Gradient_02.ipynb?flush_cache=true)
+ - [Gradient Python Code 1](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture09_Sub_Gradient_01.ipynb)
+ - [Gradient Python Code 2](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture09_Sub_Gradient_02.ipynb)
 
 ### [Lecture10 (03/20) : EDA](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture10_EDA.ipynb?flush_cache=true)
  - EDA에 대한 강의 자료입니다.
