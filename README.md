@@ -56,7 +56,7 @@ Gradient를 계산할 때 사용되는 기본 미적분학 강의자료입니다
 ### [Lecture10 (03/20) : Statistics in Data Science 1](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture10_Statistics_In_Data_Science_1.ipynb)
  - Data Science 에서 필요한 통계 내용에 대한 강의 자료1 입니다.
 
-### [Lecture10 (03/23) : Statistics in Data Science 2](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture10_Statistics_In_Data_Science_2.ipynb?flush_cache=true)
+### [Lecture10 (03/23) : Statistics in Data Science 2](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture10_Statistics_In_Data_Science_2.ipynb)
  - Reading material
       - [추정 이론](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture10_Estimation_Theory.pdf?flush_cache=true) : 
 추정 이론에 대한 수리통계학 강의자료 입니다.
