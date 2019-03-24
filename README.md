@@ -68,7 +68,7 @@ Gradient를 계산할 때 사용되는 기본 미적분학 강의자료입니다
      - Python code
          - [Hypothesis python code](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture06_Hypothesis_Test.ipynb?flush_cache=true)
          
-### [Lecture13 (03/27) : 머신러닝 기초] (Machine Learning Basic)(https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture11_Basic_Concept_of_Machine_Learning.pdf)
+### [Lecture13 (03/27) : 머신러닝 기초 (Machine Learning Basic)](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture11_Basic_Concept_of_Machine_Learning.pdf)
  - Machine learning의 basic concept에 대한 강의 자료입니다.
  - Reading material
   - Machine Learning (Tom Mitchell)
