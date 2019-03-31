@@ -86,7 +86,8 @@ Bayesian Decision Theory에 대한 강의 자료입니다.
 
 ### [Lecture14 (04/03, 04/06) : 선형 회귀 분석(Linear Regression)](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture13_Linear_Regression.pdf?flush_cache=true)
 Linear Regression에 대한 강의 자료입니다.
- - [Linear Regression Sklearn Code 1](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture02_Linear_Regression.ipynb?flush_cache=true)
+ - [Linear Regression Statistical models](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture13_Linear_Regression_Stat_Model.ipynb)
+ - [Linear Regression ML models](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture13_Linear_Regression_ML_Model.ipynb)
  - Reading material
      - [A Few Useful Things to Know about Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) : 머신러닝에 굉장히 유용한 논문입니다.
      - [Stanford CS229 : Linear Regression](http://cs229.stanford.edu/notes/cs229-notes1.pdf)
