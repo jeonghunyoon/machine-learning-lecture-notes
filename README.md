@@ -79,6 +79,7 @@ Bayesian Decision Theory에 대한 강의 자료입니다.
  - [Lecture12 sub notes: MLE/MAP](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture12_MLE_MAP.pdf) : MLE/MAP에 대한 강의 자료입니다.
  - [Naive Bayesian From The Scratch](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture11_Sentiment_Classifier_Using_Naive_Bayes_From_The_Scratch.ipynb) : Naive bayesian을 이용한 sentiment analysis 1 입니다.
  - [Naive Bayesian Sklearn Code](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture11_Sentiment_Classifier_Using_Naive_Bayes_With_SKlearn.ipynb) : Naive bayesian을 이용한 sentiment analysis 2 입니다.
+ - [GNB Sklearn Code](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture11_Gaussian_Naive_Bayes.ipynb) : GNB를 이용하여 iris 데이터를 분류하는 예제입니다.
  - Reading material
       - [Stanford CS229 : Generative Learning algorithms](http://cs229.stanford.edu/notes/cs229-notes2.pdf)
       - Pattern Recoginition and Machine Learning(Bishop): 1.5 Decision Theory (번역본있음)
