@@ -105,7 +105,11 @@ Logistic Regression에 대한 강의 자료입니다.
  - Reading material
      - [Stanford CS229 : Logistic Regression](http://cs229.stanford.edu/notes/cs229-notes1.pdf)
 
-### Lecture16 (04/20) : 정보이론 및 결정트리(Information theory / Decision Tree)
+### [Lecture16 (04/20) : 정보이론 및 결정트리(Information theory / Decision Tree)](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture17_Decision_Tree_Information_Theory.pdf)
+Decision tree에 대한 강의 자료입니다.
+ - [Decision Tree Python Code 1](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture16_Decision_Tree_Python_1.ipynb)
+ - [Decision Tree Python Code 2](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture16_Decision_Tree_Python_2.ipynb)
+ 
 
 ### Lecture17 (04/24) : Ensemble 1
 
