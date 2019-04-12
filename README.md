@@ -101,7 +101,8 @@ Muticlass Classification에 대한 강의 자료입니다. (핸즈온 머신러�
 
 ### [Lecture16 (04/13, 04/17) : 로지스틱 회귀(Logistic Regression)](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture15_Logistic_Regression.pdf)
 Logistic Regression에 대한 강의 자료입니다.
- - [Logistic Regression Statsmodels Code](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture15_Logistic_Regression.ipynb)
+ - [Logistic Regression Statsmodels Code](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture15_Logistic_Regression_1.ipynb)
+ - [Logistic Regression Sklearn Code](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture15_Logistic_Regression_2.ipynb)
  - Reading material
      - [Stanford CS229 : Logistic Regression](http://cs229.stanford.edu/notes/cs229-notes1.pdf)
 
