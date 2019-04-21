@@ -99,34 +99,37 @@ Binary Classification에 대한 강의 자료입니다. (핸즈온 머신러닝)
 ### [Lecture15 (04/10) : 분류(Classification) 2](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture14_Multiclass_Classification_MNIST.ipynb)
 Muticlass Classification에 대한 강의 자료입니다. (핸즈온 머신러닝)
 
-### [Lecture16 (04/13, 04/17) : 로지스틱 회귀(Logistic Regression)](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture15_Logistic_Regression.pdf)
+### [Lecture16 (04/13, 04/24) : 로지스틱 회귀(Logistic Regression)](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture15_Logistic_Regression.pdf)
 Logistic Regression에 대한 강의 자료입니다.
  - [Logistic Regression Statsmodels Code](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture15_Logistic_Regression_Stat.ipynb)
  - [Logistic Regression Sklearn Code](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture15_Logistic_Regression_ML.ipynb)
  - Reading material
      - [Stanford CS229 : Logistic Regression](http://cs229.stanford.edu/notes/cs229-notes1.pdf)
 
-### [Lecture16 (04/20) : 정보이론 및 결정트리(Information theory / Decision Tree)](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture17_Decision_Tree_Information_Theory.pdf)
+### [Lecture16 (04/27) : 정보이론 및 결정트리(Information theory / Decision Tree)](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture17_Decision_Tree_Information_Theory.pdf)
 Decision tree에 대한 강의 자료입니다.
  - [Decision Tree Python Code 1](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture16_Decision_Tree_Python_1.ipynb)
  - [Decision Tree Python Code 2](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture16_Decision_Tree_Python_2.ipynb)
  
 
-### Lecture17 (04/24) : Ensemble 1
+### Lecture17 (05/01) : Ensemble 1
+- [Ensemble - Bagging, Random Forest Python Code 1](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture17_Ensemble_1.ipynb)
 
-### Lecture17 (04/27) : Ensemble 2
+### Lecture17 (05/04) : Ensemble 2
+- [Ensemble - Boosting Python Code 1](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture17_Ensemble_2.ipynb)
+- [Ensemble - Stacking Python Code 1](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture17_Stacking.ipynb)
 
-### Lecture18 (05/01) : 서포트 벡터 머신(Support Vector Machine)
+### Lecture18 (05/08) : 서포트 벡터 머신(Support Vector Machine)
 
-### Lecture19 (05/04) : 주성분 분석(Principal Component Analysis)
+### Lecture19 (05/15) : 주성분 분석(Principal Component Analysis)
 
-### Lecture20 (05/08) : K-means clustering
+### Lecture20 (05/22) : K-means clustering
 
-### Lecture21 (05/15) : Clustering
+### Lecture21 (06/01) : Clustering
 
-### Lecture22 (05/22) : 심층 신경망 기본 + Keras(Deep Neural Network)
+### Lecture22 (06/05) : 심층 신경망 기본 + Keras(Deep Neural Network)
 
-### Lecture26 (06/01) : Feature engineering
+### Lecture26 (06/08) : Feature engineering
 
-### Lecture26 (06/05) : Real Project 1
+### Lecture26 (06/12) : Real Project 1
 
