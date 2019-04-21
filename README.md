@@ -113,11 +113,12 @@ Decision tree에 대한 강의 자료입니다.
  
 
 ### Lecture17 (05/01) : Ensemble 1
-- [Ensemble - Bagging, Random Forest Python Code 1](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture17_Ensemble_1.ipynb)
+- [Ensemble - Bagging, Random Forest Python Code](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture17_Ensemble_1.ipynb)
+- [Creating simple Random Forest](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture17_Creating_Random_Forest.ipynb)
 
 ### Lecture17 (05/04) : Ensemble 2
-- [Ensemble - Boosting Python Code 1](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture17_Ensemble_2.ipynb)
-- [Ensemble - Stacking Python Code 1](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture17_Stacking.ipynb)
+- [Ensemble - Boosting Python Code](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture17_Ensemble_2.ipynb)
+- [Ensemble - Stacking Python Code](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture17_Stacking.ipynb)
 
 ### Lecture18 (05/08) : 서포트 벡터 머신(Support Vector Machine)
 
