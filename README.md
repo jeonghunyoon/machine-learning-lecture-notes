@@ -121,6 +121,7 @@ Decision tree에 대한 강의 자료입니다.
 - [Ensemble - Stacking Python Code](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture17_Stacking.ipynb)
     - Reading material
         - [Stanford lecture note](https://web.stanford.edu/~hastie/TALKS/boost.pdf)
+        - [Stanford CS229 : Ensemble](http://cs229.stanford.edu/notes/cs229-notes-ensemble.pdf)
 
 ### Lecture18 (05/08) : 서포트 벡터 머신(Support Vector Machine)
 
