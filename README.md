@@ -112,13 +112,15 @@ Decision tree에 대한 강의 자료입니다.
  - [Decision Tree Python Code 2](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture16_Decision_Tree_Python_2.ipynb)
  
 
-### Lecture17 (05/01) : Ensemble 1
+### Lecture17 (05/01) : Ensemble 1 (Bagging, Random forest)
 - [Ensemble - Bagging, Random Forest Python Code](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture17_Ensemble_1.ipynb)
 - [Creating simple Random Forest](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture17_Creating_Random_Forest.ipynb)
 
-### Lecture17 (05/04) : Ensemble 2
+### Lecture17 (05/04) : Ensemble 2 (Boosting)
 - [Ensemble - Boosting Python Code](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture17_Ensemble_2.ipynb)
 - [Ensemble - Stacking Python Code](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture17_Stacking.ipynb)
+    - Reading material
+        - [Stanford lecture note](https://web.stanford.edu/~hastie/TALKS/boost.pdf)
 
 ### Lecture18 (05/08) : 서포트 벡터 머신(Support Vector Machine)
 
