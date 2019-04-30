@@ -112,28 +112,29 @@ Decision tree에 대한 강의 자료입니다.
  - [Decision Tree Python Code 2](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture16_Decision_Tree_Python_2.ipynb)
  
 
-### Lecture17 (05/01) : Ensemble 1 (Bagging, Random forest)
+### [Lecture17 (05/04) : Ensemble 1 (Bagging, Random forest)](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture18_Ensemble_Models_1.pdf)
 - [Ensemble - Bagging, Random Forest Python Code](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture17_Ensemble_1.ipynb)
 - [Creating simple Random Forest](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture17_Creating_Random_Forest.ipynb)
 
-### Lecture17 (05/04) : Ensemble 2 (Boosting)
+### [Lecture17 (05/08) : Ensemble 2 (Boosting)](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture18_Ensemble_Models_2.pdf)
 - [Ensemble - Boosting Python Code](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture17_Ensemble_2.ipynb)
 - [Ensemble - Stacking Python Code](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture17_Stacking.ipynb)
     - Reading material
         - [Stanford lecture note](https://web.stanford.edu/~hastie/TALKS/boost.pdf)
+        - [NorthEeastern Univ. lecture note](http://www.ccs.neu.edu/home/vip/teach/MLcourse/4_boosting/slides/gradient_boosting.pdf) 
         - [Stanford CS229 : Ensemble](http://cs229.stanford.edu/notes/cs229-notes-ensemble.pdf)
 
-### Lecture18 (05/08) : 서포트 벡터 머신(Support Vector Machine)
+### Lecture18 (05/15) : 서포트 벡터 머신(Support Vector Machine)
 
-### Lecture19 (05/15) : 주성분 분석(Principal Component Analysis)
+### Lecture19 (05/22) : 주성분 분석(Principal Component Analysis)
 
-### Lecture20 (05/22) : K-means clustering
+### Lecture20 (06/01) : K-means clustering
 
-### Lecture21 (06/01) : Clustering
+### Lecture21 (06/05) : Clustering
 
-### Lecture22 (06/05) : 심층 신경망 기본 + Keras(Deep Neural Network)
+### Lecture22 (06/08) : 심층 신경망 기본 + Keras(Deep Neural Network)
 
-### Lecture26 (06/08) : Feature engineering
+### Lecture26 (06/12) : Feature engineering
 
-### Lecture26 (06/12) : Real Project 1
+### Lecture26 (06/15) : Real Project 1
 
