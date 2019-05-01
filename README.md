@@ -68,7 +68,7 @@ Gradient를 계산할 때 사용되는 기본 미적분학 강의자료입니다
      - Python code
          - [Hypothesis python code](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture06_Hypothesis_Test.ipynb?flush_cache=true)
          
-### [Lecture13 (03/27) : 머신러닝 기초 (Machine Learning Basic)](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture11_Basic_Concept_of_Machine_Learning.pdf)
+### [Lecture11 (03/27) : 머신러닝 기초 (Machine Learning Basic)](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture11_Basic_Concept_of_Machine_Learning.pdf)
  - Machine learning의 basic concept에 대한 강의 자료입니다.
  - Reading material
      - Machine Learning (Tom Mitchell)
@@ -85,7 +85,7 @@ Bayesian Decision Theory에 대한 강의 자료입니다.
       - Pattern Recoginition and Machine Learning(Bishop): 1.5 Decision Theory (번역본있음)
       - Pattern Classification(Duda) : 2. Bayesian Decision Theory (번역본있음)
 
-### [Lecture14 (04/03, 04/06) : 선형 회귀 분석(Linear Regression)](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture13_Linear_Regression.pdf?flush_cache=true)
+### [Lecture13 (04/03, 04/06) : 선형 회귀 분석(Linear Regression)](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture13_Linear_Regression.pdf?flush_cache=true)
 Linear Regression에 대한 강의 자료입니다.
  - [Linear Regression Statistical models](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture13_Linear_Regression_Stat_Model.ipynb)
  - [Linear Regression ML models](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture13_Linear_Regression_ML_Model.ipynb)
@@ -93,30 +93,30 @@ Linear Regression에 대한 강의 자료입니다.
      - [A Few Useful Things to Know about Machine Learning](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf) : 머신러닝에 굉장히 유용한 논문입니다.
      - [Stanford CS229 : Linear Regression](http://cs229.stanford.edu/notes/cs229-notes1.pdf)
 
-### [Lecture15 (04/10) : 분류(Classification) 1](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture14_Binary_Classification_MNIST.ipynb)
+### [Lecture14 (04/10) : 분류(Classification) 1](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture14_Binary_Classification_MNIST.ipynb)
 Binary Classification에 대한 강의 자료입니다. (핸즈온 머신러닝)
 
-### [Lecture15 (04/10) : 분류(Classification) 2](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture14_Multiclass_Classification_MNIST.ipynb)
+### [Lecture14 (04/10) : 분류(Classification) 2](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture14_Multiclass_Classification_MNIST.ipynb)
 Muticlass Classification에 대한 강의 자료입니다. (핸즈온 머신러닝)
 
-### [Lecture16 (04/13, 04/24) : 로지스틱 회귀(Logistic Regression)](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture15_Logistic_Regression.pdf)
+### [Lecture15 (04/13, 04/24) : 로지스틱 회귀(Logistic Regression)](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture15_Logistic_Regression.pdf)
 Logistic Regression에 대한 강의 자료입니다.
  - [Logistic Regression Statsmodels Code](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture15_Logistic_Regression_Stat.ipynb)
  - [Logistic Regression Sklearn Code](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture15_Logistic_Regression_ML.ipynb)
  - Reading material
      - [Stanford CS229 : Logistic Regression](http://cs229.stanford.edu/notes/cs229-notes1.pdf)
 
-### [Lecture16 (04/27) : 정보이론 및 결정트리(Information theory / Decision Tree)](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture17_Decision_Tree_Information_Theory.pdf)
+### [Lecture16 (04/27) : 정보이론 및 결정트리(Information theory / Decision Tree)](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture16_Decision_Tree_Information_Theory.pdf)
 Decision tree에 대한 강의 자료입니다.
  - [Decision Tree Python Code 1](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture16_Decision_Tree_Python_1.ipynb)
  - [Decision Tree Python Code 2](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture16_Decision_Tree_Python_2.ipynb)
  
 
-### [Lecture17 (05/04) : Ensemble 1 (Bagging, Random forest)](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture18_Ensemble_Models_1.pdf)
+### [Lecture17 (05/04) : Ensemble 1 (Bagging, Random forest)](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture17_Ensemble_Models_1.pdf)
 - [Ensemble - Bagging, Random Forest Python Code](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture17_Ensemble_1.ipynb)
 - [Creating simple Random Forest](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture17_Creating_Random_Forest.ipynb)
 
-### [Lecture17 (05/08) : Ensemble 2 (Boosting)](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture18_Ensemble_Models_2.pdf)
+### [Lecture17 (05/08) : Ensemble 2 (Boosting)](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture17_Ensemble_Models_2.pdf)
 - [Ensemble - Boosting Python Code](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture17_Ensemble_2.ipynb)
 - [Ensemble - Stacking Python Code](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture17_Stacking.ipynb)
     - Reading material
@@ -124,7 +124,14 @@ Decision tree에 대한 강의 자료입니다.
         - [NorthEeastern Univ. lecture note](http://www.ccs.neu.edu/home/vip/teach/MLcourse/4_boosting/slides/gradient_boosting.pdf) 
         - [Stanford CS229 : Ensemble](http://cs229.stanford.edu/notes/cs229-notes-ensemble.pdf)
 
-### Lecture18 (05/15) : 서포트 벡터 머신(Support Vector Machine)
+### [Lecture18 (05/15) : 서포트 벡터 머신(Support Vector Machine)](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture18_SVM.pdf)
+- [SVM Python Code]()
+    - Reading material
+        - [Stanford lecture note](http://cs229.stanford.edu/notes/cs229-notes3.pdf)
+        - [Stanford lecture note for SMO](http://cs229.stanford.edu/materials/smo.pdf
+)
+        - [Convex Optimization Lecture Note](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture18_Convex_optimization.pdf)
+        - [Convex Optimization Book](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 
 ### Lecture19 (05/22) : 주성분 분석(Principal Component Analysis)
 
