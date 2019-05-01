@@ -113,25 +113,26 @@ Decision tree에 대한 강의 자료입니다.
  
 
 ### [Lecture17 (05/04) : Ensemble 1 (Bagging, Random forest)](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture17_Ensemble_Models_1.pdf)
+Ensemble method 중에서 bagging과 Random forest에 대한 강의 자료입니다.
 - [Ensemble - Bagging, Random Forest Python Code](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture17_Ensemble_1.ipynb)
 - [Creating simple Random Forest](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture17_Creating_Random_Forest.ipynb)
 
 ### [Lecture17 (05/08) : Ensemble 2 (Boosting)](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture17_Ensemble_Models_2.pdf)
+Ensemble method 중에서 boosting과 stacking에 대한 강의 자료입니다.
 - [Ensemble - Boosting Python Code](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture17_Ensemble_2.ipynb)
 - [Ensemble - Stacking Python Code](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture17_Stacking.ipynb)
-    - Reading material
-        - [Stanford lecture note](https://web.stanford.edu/~hastie/TALKS/boost.pdf)
-        - [NorthEeastern Univ. lecture note](http://www.ccs.neu.edu/home/vip/teach/MLcourse/4_boosting/slides/gradient_boosting.pdf) 
-        - [Stanford CS229 : Ensemble](http://cs229.stanford.edu/notes/cs229-notes-ensemble.pdf)
+- Reading material
+    - [Stanford lecture note](https://web.stanford.edu/~hastie/TALKS/boost.pdf)
+    - [NorthEeastern Univ. lecture note](http://www.ccs.neu.edu/home/vip/teach/MLcourse/4_boosting/slides/gradient_boosting.pdf) 
+    - [Stanford CS229 : Ensemble](http://cs229.stanford.edu/notes/cs229-notes-ensemble.pdf)
 
 ### [Lecture18 (05/15) : 서포트 벡터 머신(Support Vector Machine)](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture18_SVM.pdf)
-- [SVM Python Code]()
-    - Reading material
-        - [Stanford lecture note](http://cs229.stanford.edu/notes/cs229-notes3.pdf)
-        - [Stanford lecture note for SMO](http://cs229.stanford.edu/materials/smo.pdf
-)
-        - [Convex Optimization Lecture Note](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture18_Convex_optimization.pdf)
-        - [Convex Optimization Book](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
+- [SVM Python Code](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture18_SVM.ipynb) : SVM Python Code 강의 자료입니다.
+- Reading material
+    - [Stanford lecture note](http://cs229.stanford.edu/notes/cs229-notes3.pdf) : SVM 참고자료 입니다.
+    - [Stanford lecture note for SMO](http://cs229.stanford.edu/materials/smo.pdf) : SMO 참고자료 입니다.
+    - [Convex Optimization Lecture Note](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture18_Convex_optimization.pdf) : Convex optimization을 정리한 내용 입니다.
+    - [Convex Optimization Book](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 
 ### Lecture19 (05/22) : 주성분 분석(Principal Component Analysis)
 
