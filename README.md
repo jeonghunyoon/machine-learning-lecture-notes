@@ -123,7 +123,7 @@ Ensemble method 중에서 boosting과 stacking에 대한 강의 자료입니다.
 - [Ensemble - Stacking Python Code](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture17_Stacking.ipynb)
 - Reading material
     - [Stanford lecture note](https://web.stanford.edu/~hastie/TALKS/boost.pdf)
-    - [NorthEeastern Univ. lecture note](http://www.ccs.neu.edu/home/vip/teach/MLcourse/4_boosting/slides/gradient_boosting.pdf) 
+    - [Northeastern Univ. lecture note](http://www.ccs.neu.edu/home/vip/teach/MLcourse/4_boosting/slides/gradient_boosting.pdf) 
     - [Stanford CS229 : Ensemble](http://cs229.stanford.edu/notes/cs229-notes-ensemble.pdf)
 
 ### [Lecture18 (05/15) : 서포트 벡터 머신(Support Vector Machine)](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture18_SVM.pdf)
