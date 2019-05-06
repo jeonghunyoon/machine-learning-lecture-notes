@@ -127,6 +127,7 @@ Ensemble method 중에서 boosting과 stacking에 대한 강의 자료입니다.
     - [Stanford CS229 : Ensemble](http://cs229.stanford.edu/notes/cs229-notes-ensemble.pdf)
 
 ### [Lecture18 (05/15) : 서포트 벡터 머신(Support Vector Machine)](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture18_SVM.pdf)
+SVM에 대한 강의 자료입니다.
 - [SVM Python Code](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture18_SVM.ipynb) : SVM Python Code 강의 자료입니다.
 - Reading material
     - [Stanford CS229 : SVM](http://cs229.stanford.edu/notes/cs229-notes3.pdf) : SVM 참고자료 입니다.
@@ -134,8 +135,13 @@ Ensemble method 중에서 boosting과 stacking에 대한 강의 자료입니다.
     - [Convex Optimization Lecture Note](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture18_Convex_optimization.pdf) : Convex optimization을 정리한 내용 입니다.
     - [Convex Optimization Book](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 
-### Lecture19 (05/22) : 주성분 분석(Principal Component Analysis)
-
+### [Lecture19 (05/22) : 주성분 분석(Principal Component Analysis)](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture19_PCA.pdf)
+PCA에 대한 강의 자료입니다.
+- [PCA Python Code 1](https://github.com/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture19_PCA_By_Hands.ipynb) : PCA from the scratch 입니다. PCA를 직접 손으로 구현해 봅니다.
+- PCA Python Code 2
+- Reading material
+    - [Stanford CS229 : PCA](http://cs229.stanford.edu/notes/cs229-notes10.pdf)
+    
 ### Lecture20 (06/01) : K-means clustering
 
 ### Lecture21 (06/05) : Clustering
