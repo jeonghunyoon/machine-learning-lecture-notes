@@ -137,7 +137,7 @@ SVM에 대한 강의 자료입니다.
 
 ### [Lecture19 (05/22) : 주성분 분석(Principal Components Analysis)](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture19_PCA.pdf)
 PCA에 대한 강의 자료입니다.
-- [PCA Python Code 1](https://github.com/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture19_PCA_By_Hands.ipynb) : PCA from the scratch 입니다. PCA를 직접 손으로 구현해 봅니다.
+- [PCA Python Code 1](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture19_PCA_By_Hands.ipynb) : PCA from the scratch 입니다. PCA를 직접 손으로 구현해 봅니다.
 - PCA Python Code 2
 - Reading material
     - [Stanford CS229 : PCA](http://cs229.stanford.edu/notes/cs229-notes10.pdf)
