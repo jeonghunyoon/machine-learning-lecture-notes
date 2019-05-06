@@ -135,7 +135,7 @@ SVM에 대한 강의 자료입니다.
     - [Convex Optimization Lecture Note](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture18_Convex_optimization.pdf) : Convex optimization을 정리한 내용 입니다.
     - [Convex Optimization Book](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
 
-### [Lecture19 (05/22) : 주성분 분석(Principal Component Analysis)](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture19_PCA.pdf)
+### [Lecture19 (05/22) : 주성분 분석(Principal Components Analysis)](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture19_PCA.pdf)
 PCA에 대한 강의 자료입니다.
 - [PCA Python Code 1](https://github.com/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture19_PCA_By_Hands.ipynb) : PCA from the scratch 입니다. PCA를 직접 손으로 구현해 봅니다.
 - PCA Python Code 2
