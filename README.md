@@ -146,7 +146,12 @@ PCA에 대한 강의 자료입니다.
 
 ### Lecture21 (06/05) : Clustering
 
-### Lecture22 (06/08) : 심층 신경망 기본 + Keras(Deep Neural Network)
+### [Lecture22 (06/08) : 심층 신경망 기본 + Keras(Deep Neural Network)](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture22_DNN.pdf)
+Perceptron 및 Deep Neural Network에 대한 강의자료입니다.
+- Reading material
+    - [Stanford CS229 : Perceptron](http://cs229.stanford.edu/notes/cs229-notes-deep_learning.pdf)
+    - [Stanford CS229 : Back Propergation](http://cs229.stanford.edu/notes/cs229-notes-backprop.pdf)
+    - [Google Dev Demo](https://google-developers.appspot.com/machine-learning/crash-course/backprop-scroll/)
 
 ### Lecture26 (06/12) : Feature engineering
 
