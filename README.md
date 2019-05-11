@@ -139,10 +139,12 @@ SVM에 대한 강의 자료입니다.
 PCA에 대한 강의 자료입니다.
 - [PCA Python Code 1](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture19_PCA_By_Hands.ipynb) : PCA from the scratch 입니다. PCA를 직접 손으로 구현해 봅니다.
 - PCA Python Code 2
-- Reading material
+- Reading materials
     - [Stanford CS229 : PCA](http://cs229.stanford.edu/notes/cs229-notes10.pdf)
     
-### Lecture20 (06/01) : K-means clustering
+### [Lecture20 (06/01) : K-means clustering](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture20_K_means_clustering.pdf)
+- Reading materials
+    - [Stanford CS229 : K-means](http://cs229.stanford.edu/notes/cs229-notes7a.pdf)
 
 ### Lecture21 (06/05) : Clustering
 
@@ -158,4 +160,10 @@ Perceptron 및 Deep Neural Network에 대한 강의자료입니다.
 ### Lecture26 (06/15) : Real Project 1
 
 ### Lecture26 (06/19) : Real Project 2
+
+### Extra_Lecture01 : Time-series-analysis
+
+### Extra_Lecture02 : Association-rule-mining
+
+
 
