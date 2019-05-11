@@ -152,3 +152,5 @@ PCA에 대한 강의 자료입니다.
 
 ### Lecture26 (06/15) : Real Project 1
 
+### Lecture26 (06/19) : Real Project 2
+
