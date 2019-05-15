@@ -143,6 +143,7 @@ PCA에 대한 강의 자료입니다.
     - [Stanford CS229 : PCA](http://cs229.stanford.edu/notes/cs229-notes10.pdf)
     
 ### [Lecture20 (06/01) : K-means clustering](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture20_K_means_clustering.pdf)
+K-means algorithms에 대한 강의 자료입니다.
 - Reading materials
     - [Stanford CS229 : K-means](http://cs229.stanford.edu/notes/cs229-notes7a.pdf)
 
