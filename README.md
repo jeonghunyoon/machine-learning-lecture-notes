@@ -156,7 +156,8 @@ Perceptron 및 Deep Neural Network에 대한 강의자료입니다.
     - [Stanford CS229 : Back Propergation](http://cs229.stanford.edu/notes/cs229-notes-backprop.pdf)
     - [Google Dev Demo](https://google-developers.appspot.com/machine-learning/crash-course/backprop-scroll/)
 
-### Lecture26 (06/12) : Feature engineering
+### [Lecture23 (06/12) : Feature selection](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture23_Feature_Selection.pdf)
+Feature selection에 대한 강의 자료입니다.
 
 ### Lecture26 (06/15) : Real Project 1
 
