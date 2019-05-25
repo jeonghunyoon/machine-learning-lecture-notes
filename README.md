@@ -144,6 +144,7 @@ PCA에 대한 강의 자료입니다.
     
 ### [Lecture20 (06/01) : K-means clustering](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture20_K_means_clustering.pdf)
 K-means algorithms에 대한 강의 자료입니다.
+- K-means Python Code 1
 - Reading materials
     - [Stanford CS229 : K-means](http://cs229.stanford.edu/notes/cs229-notes7a.pdf)
 
@@ -151,6 +152,7 @@ K-means algorithms에 대한 강의 자료입니다.
 
 ### [Lecture22 (06/08) : 심층 신경망 기본 + Keras(Deep Neural Network)](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture22_DNN.pdf)
 Perceptron 및 Deep Neural Network에 대한 강의자료입니다.
+- DNN Python Code 1
 - Reading material
     - [Stanford CS229 : Perceptron](http://cs229.stanford.edu/notes/cs229-notes-deep_learning.pdf)
     - [Stanford CS229 : Back Propergation](http://cs229.stanford.edu/notes/cs229-notes-backprop.pdf)
@@ -158,10 +160,11 @@ Perceptron 및 Deep Neural Network에 대한 강의자료입니다.
 
 ### [Lecture23 (06/12) : Feature selection](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture23_Feature_Selection.pdf)
 Feature selection에 대한 강의 자료입니다.
+- Feature selection Python Code 1
 
-### Lecture26 (06/15) : Real Project 1
+### Lecture24 (06/15) : Real Project 1
 
-### Lecture26 (06/19) : Real Project 2
+### Lecture25 (06/19) : Real Project 2
 
 ### Extra_Lecture01 : Time-series-analysis
 
