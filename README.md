@@ -144,7 +144,7 @@ PCA에 대한 강의 자료입니다.
     
 ### [Lecture20 (06/01) : K-means clustering](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture20_K_means_clustering.pdf)
 K-means algorithms에 대한 강의 자료입니다.
-- K-means Python Code 1
+- [K-means Python Code 1](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture20_K_Means_Clustering.ipynb) : K-means clustering 및 적절한 클러스터의 갯수를 찾는 방법에 관한 자료입니다.
 - Reading materials
     - [Stanford CS229 : K-means](http://cs229.stanford.edu/notes/cs229-notes7a.pdf)
 
