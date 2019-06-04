@@ -151,8 +151,8 @@ K-means algorithms에 대한 강의 자료입니다.
     - [Stanford CS229 : K-means](http://cs229.stanford.edu/notes/cs229-notes7a.pdf)
 
 ### Lecture21 (06/05) : Clustering
-- [Segmentations 1](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture20_Customer_Segmentation_Easy_version.ipynb)
-- [Segmentations 2](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture20_Customer_Segmentation_Full_Version.ipynb)
+- [Segmentations 1](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture20_Customer_Segmentation_Easy_version.ipynb) : UCI e-commerce data를 활용하여 user segmentation을 실습하는 간단한 자료입니다.
+- [Segmentations 2](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture20_Customer_Segmentation_Full_Version.ipynb) : UCI e-commerce data를 활용하여 user segmentation을 실습하는 분석난이도가 있는 자료입니다.
 
 ### [Lecture22 (06/08) : 심층 신경망 기본 + Keras(Deep Neural Network)](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture22_DNN.pdf)
 Perceptron 및 Deep Neural Network에 대한 강의자료입니다.
