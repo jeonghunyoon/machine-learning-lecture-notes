@@ -146,9 +146,10 @@ PCA에 대한 강의 자료입니다.
 ### [Lecture20 (06/01) : K-means clustering](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture20_K_means_clustering.pdf)
 K-means algorithms에 대한 강의 자료입니다.
 - [K-means Python Code 1](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture20_K_Means_Clustering.ipynb) : K-means clustering 및 적절한 클러스터의 갯수를 찾는 방법에 관한 자료입니다.
-- [K-means Python Code 2](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture21_Clustering.ipynb)
+- [K-means Python Code 2](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture21_Clustering.ipynb) : K-means python code 입니다.
 - Reading materials
     - [Stanford CS229 : K-means](http://cs229.stanford.edu/notes/cs229-notes7a.pdf)
+    - [Stanford CS229 : Gaussian Mixture Model](http://cs229.stanford.edu/notes/cs229-notes7b.pdf)
 
 ### Lecture21 (06/05) : Clustering
 - [Segmentations 1](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture20_Customer_Segmentation_Easy_version.ipynb) : UCI e-commerce data를 활용하여 user segmentation을 실습하는 간단한 자료입니다.
@@ -156,7 +157,7 @@ K-means algorithms에 대한 강의 자료입니다.
 
 ### [Lecture22 (06/08) : 심층 신경망 기본 + Keras(Deep Neural Network)](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture22_DNN.pdf)
 Perceptron 및 Deep Neural Network에 대한 강의자료입니다.
-- DNN Python Code 1
+- [DNN Python Code 1](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture22_DNN.ipynb) : Keras를 이용하여 기본적인 분류 및 회귀문제를 DNN을 이용하여 해결하는 예제입니다.
 - Reading material
     - [Stanford CS229 : Perceptron](http://cs229.stanford.edu/notes/cs229-notes-deep_learning.pdf)
     - [Stanford CS229 : Back Propergation](http://cs229.stanford.edu/notes/cs229-notes-backprop.pdf)
