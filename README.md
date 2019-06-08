@@ -158,6 +158,7 @@ K-means algorithms에 대한 강의 자료입니다.
 ### [Lecture22 (06/08) : 심층 신경망 기본 + Keras(Deep Neural Network)](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture22_DNN.pdf)
 Perceptron 및 Deep Neural Network에 대한 강의자료입니다.
 - [DNN Python Code 1](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture22_DNN.ipynb) : Keras를 이용하여 기본적인 분류 및 회귀문제를 DNN을 이용하여 해결하는 예제입니다.
+- [DNN and Sampling Python Code 1](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture22_CardFraudDetection.ipynb) : Kaggle의 card fraud detection 문제를 해결하며, imbalanced 문제를 다루는 예제입니다.
 - Reading material
     - [Stanford CS229 : Perceptron](http://cs229.stanford.edu/notes/cs229-notes-deep_learning.pdf)
     - [Stanford CS229 : Back Propergation](http://cs229.stanford.edu/notes/cs229-notes-backprop.pdf)
