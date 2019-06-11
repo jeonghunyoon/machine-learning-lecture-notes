@@ -166,7 +166,7 @@ Perceptron 및 Deep Neural Network에 대한 강의자료입니다.
 
 ### [Lecture23 (06/12) : Feature selection](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture23_Feature_Selection.pdf)
 Feature selection에 대한 강의 자료입니다.
-- Feature selection Python Code 1
+- [Feature selection Python Code 1](https://scikit-learn.org/stable/modules/feature_selection.html)
 
 ### Lecture24 (06/15) : Real Project 1
 
