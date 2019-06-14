@@ -168,13 +168,9 @@ Perceptron 및 Deep Neural Network에 대한 강의자료입니다.
 Feature selection에 대한 강의 자료입니다.
 - [Feature selection Python Code 1](https://scikit-learn.org/stable/modules/feature_selection.html)
 
-### Lecture24 (06/15) : Real Project 1
+### Lecture24 (06/15) : Time-series-analysis
+- [ARIMA 1](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture24_Time_Series_01.ipynb)
+- [ARIMA 2](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture24_Time_Series_02.ipynb)
 
-### Lecture25 (06/19) : Real Project 2
-
-### Extra_Lecture01 : Time-series-analysis
-
-### Extra_Lecture02 : Association-rule-mining
-
-
-
+### [Lecture25 : Association-rule-mining](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture25_Association_Rule_Mining.pdf)
+Association Rule에 대한 강의 자료입니다.
