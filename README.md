@@ -174,3 +174,6 @@ Feature selection에 대한 강의 자료입니다.
 
 ### [Lecture25 : Association-rule-mining](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture25_Association_Rule_Mining.pdf)
 Association Rule에 대한 강의 자료입니다.
+
+### [Lecture26 : Topic modeling](https://nbviewer.jupyter.org/github/jeonghunyoon/machine-learning-lecture-notes/blob/master/Lecture26_Topic_models.pdf)
+토픽 모델링에 대한 강의 자료입니다.
